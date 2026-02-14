@@ -20,8 +20,8 @@
         "Description": "Utilizing the best out of the box options in KDE without any dependencies.",
         "Id": "ccc",
         "Version": "1.0",
-        "License": "Free",
-        "Website": "https://kde-plasma-themes.blogspot.com/2024/03/clarity-contrast-color-global-theme-for.html",
+        "License": "CC0",
+        "Website": "https://github.com/luis-pseudo/CCC-Plasma6.git",
         "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
         "X-Plasma-APIVersion": "2"
     }
